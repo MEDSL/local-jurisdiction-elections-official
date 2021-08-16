@@ -34,3 +34,13 @@ Election dates available:
 * 2019-11-05
 * 2019-05-14
 * 2018-11-06
+
+## Dallas County, TX
+
+Added 2021-08-16. Will continue to add election years that contain local elections.
+
+Election dates available:
+* 2021-05-01
+* 2020-11-03
+* 2019-06-08
+* 2018-05-05
