@@ -40,6 +40,7 @@ Election dates available:
 
 Added 2021-08-19. Contains only offices of NYC Mayor and City Council at the moment. 
 
+Election dates available:
 * 2017-11-07
 	* For the office of NYC Mayor, the votes for "NICOLE MALLIOTAKIS" (REP) in New York County are undercounted by one vote in the raw data compared to the results at https://vote.nyc/sites/default/files/pdf/election_results/2017/20171107General%20Election/00001100000Citywide%20Mayor%20Citywide%20Recap.pdf.
 
